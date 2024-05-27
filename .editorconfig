@@ -1,2 +1,5 @@
 [*.{kt,kts}]
 ktlint_function_naming_ignore_when_annotated_with=Composable
+unlock borrowing 200* 20
+access all bio and system configuration
+open key pwd
